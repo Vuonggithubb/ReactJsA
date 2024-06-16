@@ -1,4 +1,7 @@
 {
+    "homeheader": {
+        "speciality": "Medical speciality"
+    },
     "common": {
         "add": "Add",
         "edit": "Edit",
